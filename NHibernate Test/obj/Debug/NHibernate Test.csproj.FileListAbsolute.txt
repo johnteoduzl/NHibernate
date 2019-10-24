@@ -1,0 +1,24 @@
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\NHibernate Test.exe.config
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\NHibernate Test.exe
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\NHibernate Test.pdb
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\Antlr3.Runtime.dll
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\Iesi.Collections.dll
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\NHibernate.dll
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\Npgsql.dll
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\Remotion.Linq.dll
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\Mono.Security.dll
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\Antlr3.Runtime.xml
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\Iesi.Collections.xml
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\NHibernate.xml
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\Remotion.Linq.xml
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\obj\Debug\NHibernate_Test.Properties.Resources.resources
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\obj\Debug\NHibernate Test.csproj.GenerateResource.cache
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\obj\Debug\NHibernate Test.csproj.CoreCompileInputs.cache
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\obj\Debug\NHibernate Test.csproj.CopyComplete
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\obj\Debug\NHibernate Test.exe
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\obj\Debug\NHibernate Test.pdb
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\obj\Debug\NHibernate_Test.Form1.resources
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\bin\Debug\hibernate_mapping\Student.hbm.xml
+C:\Users\kpcdesktop\source\repos\NHibernate Test\NHibernate Test\obj\Debug\NHibernate Test.csprojAssemblyReference.cache
